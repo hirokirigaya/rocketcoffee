@@ -25,6 +25,7 @@
 body {
   background-color: var(--backgrond);
   font-family: "Manrope", sans-serif;
+  overflow-x: none;
 }
 .nav {
   margin-top: 2rem;
