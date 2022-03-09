@@ -20,12 +20,12 @@
   padding: 0px;
   box-sizing: border-box;
   overflow: hidden;
+  overflow-x: none;
 }
 
 body {
   background-color: var(--backgrond);
   font-family: "Manrope", sans-serif;
-  overflow-x: none;
 }
 .nav {
   margin-top: 2rem;
